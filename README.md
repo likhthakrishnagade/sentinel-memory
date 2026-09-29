@@ -130,8 +130,6 @@ sentinel-memory/
 |   +-- seed.py
 |   +-- test_recall.py
 |
-+-- test_memory.py
-|
 +-- requirements.txt
 +-- README.md
 ```
@@ -363,5 +361,4 @@ Official GitHub repository:
 Hindsight UI:
 
 [https://ui.hindsight.vectorize.io](https://ui.hindsight.vectorize.io)
-
 
