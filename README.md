@@ -364,7 +364,4 @@ Hindsight UI:
 
 [https://ui.hindsight.vectorize.io](https://ui.hindsight.vectorize.io)
 
-```
 
-Then press **Ctrl + S**, close Notepad, and tell me **“saved.”**
-```
